@@ -15,5 +15,3 @@ def generateLists(n):
     return output
 
 print(generateLists(5))
-
-
