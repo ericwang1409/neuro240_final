@@ -1,0 +1,27 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{NCL{\etalchar{+}}23}
+
+\bibitem[ea21]{1}
+Elhage et~al.
+\newblock A mathematical framework for transformer circuits.
+\newblock 2021.
+\newblock Accessed: 2024-03-09.
+
+\bibitem[Nan22]{3}
+Neel Nanda.
+\newblock 200 cop in mi: Interpreting algorithmic problems, 2022.
+\newblock Accessed: 2024-03-09.
+
+\bibitem[NCL{\etalchar{+}}23]{2}
+Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, and Jacob Steinhardt.
+\newblock Progress measures for grokking via mechanistic interpretability, 2023.
+
+\bibitem[Vig19]{6}
+Jesse Vig.
+\newblock A multiscale visualization of attention in the transformer model, 2019.
+
+\bibitem[VSP{\etalchar{+}}23]{7}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2023.
+
+\end{thebibliography}
