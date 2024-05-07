@@ -1,6 +1,10 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
 \begin{thebibliography}{NCL{\etalchar{+}}23}
 
+\bibitem[8]{8}
+How a transformer takes a max.
+\newblock Accessed: 2024-03-09.
+
 \bibitem[ea21]{1}
 Elhage et~al.
 \newblock A mathematical framework for transformer circuits.
@@ -11,6 +15,10 @@ Elhage et~al.
 Neel Nanda.
 \newblock 200 cop in mi: Interpreting algorithmic problems, 2022.
 \newblock Accessed: 2024-03-09.
+
+\bibitem[Nan23]{9}
+Neel Nanda.
+\newblock Transformerlens, 2023.
 
 \bibitem[NCL{\etalchar{+}}23]{2}
 Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, and Jacob Steinhardt.
