@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.15)  7 MAY 2024 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.15)  7 MAY 2024 11:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -403,123 +403,123 @@ Package hyperref Info: Link coloring ON on input line 23.
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
-<fixed_length.png, id=117, 937.5025pt x 451.6875pt>
+<fixed_length.png, id=121, 937.5025pt x 451.6875pt>
 File: fixed_length.png Graphic file (type png)
 <use fixed_length.png>
 Package pdftex.def Info: fixed_length.png  used on input line 106.
 (pdftex.def)             Requested size: 374.99435pt x 180.67178pt.
  [3]
-<variable_length.png, id=142, 937.5025pt x 451.6875pt>
+<variable_length.png, id=146, 937.5025pt x 451.6875pt>
 File: variable_length.png Graphic file (type png)
 <use variable_length.png>
 Package pdftex.def Info: variable_length.png  used on input line 140.
 (pdftex.def)             Requested size: 374.99435pt x 180.67178pt.
  [4 <./fixed_length.png>] [5 <./variable_length.png>]
-<encoding_answer.png, id=153, 926.46124pt x 451.6875pt>
+<encoding_answer.png, id=157, 926.46124pt x 451.6875pt>
 File: encoding_answer.png Graphic file (type png)
 <use encoding_answer.png>
 Package pdftex.def Info: encoding_answer.png  used on input line 185.
 (pdftex.def)             Requested size: 370.57793pt x 180.67178pt.
  [6 <./encoding_answer.png>]
-<encoding_more_heads.png, id=159, 967.615pt x 451.6875pt>
+<encoding_more_heads.png, id=164, 967.615pt x 451.6875pt>
 File: encoding_more_heads.png Graphic file (type png)
 <use encoding_more_heads.png>
 Package pdftex.def Info: encoding_more_heads.png  used on input line 205.
 (pdftex.def)             Requested size: 387.03915pt x 180.67178pt.
-<att_fixed.png, id=160, 225.84375pt x 357.335pt>
+<att_fixed.png, id=165, 225.84375pt x 357.335pt>
 File: att_fixed.png Graphic file (type png)
 <use att_fixed.png>
 Package pdftex.def Info: att_fixed.png  used on input line 221.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<att_fixed2.png, id=161, 225.84375pt x 357.335pt>
+<att_fixed2.png, id=166, 225.84375pt x 357.335pt>
 File: att_fixed2.png Graphic file (type png)
 <use att_fixed2.png>
 Package pdftex.def Info: att_fixed2.png  used on input line 222.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<att_fixed_edge.png, id=162, 225.84375pt x 357.335pt>
+<att_fixed_edge.png, id=167, 225.84375pt x 357.335pt>
 File: att_fixed_edge.png Graphic file (type png)
 <use att_fixed_edge.png>
 Package pdftex.def Info: att_fixed_edge.png  used on input line 223.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
  [7 <./encoding_more_heads.png> <./att_fixed.png> <./att_fixed2.png> <./att_fixed_edge.png>]
-<images/att_variable.png, id=173, 225.84375pt x 357.335pt>
+<images/att_variable.png, id=177, 225.84375pt x 357.335pt>
 File: images/att_variable.png Graphic file (type png)
 <use images/att_variable.png>
 Package pdftex.def Info: images/att_variable.png  used on input line 237.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_variable2.png, id=174, 225.84375pt x 357.335pt>
+<images/att_variable2.png, id=178, 225.84375pt x 357.335pt>
 File: images/att_variable2.png Graphic file (type png)
 <use images/att_variable2.png>
 Package pdftex.def Info: images/att_variable2.png  used on input line 238.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_variable3.png, id=175, 225.84375pt x 357.335pt>
+<images/att_variable3.png, id=179, 225.84375pt x 357.335pt>
 File: images/att_variable3.png Graphic file (type png)
 <use images/att_variable3.png>
 Package pdftex.def Info: images/att_variable3.png  used on input line 239.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding1.png, id=176, 225.84375pt x 357.335pt>
+<images/att_encoding1.png, id=180, 225.84375pt x 357.335pt>
 File: images/att_encoding1.png Graphic file (type png)
 <use images/att_encoding1.png>
 Package pdftex.def Info: images/att_encoding1.png  used on input line 250.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding2.png, id=177, 225.84375pt x 357.335pt>
+<images/att_encoding2.png, id=181, 225.84375pt x 357.335pt>
 File: images/att_encoding2.png Graphic file (type png)
 <use images/att_encoding2.png>
 Package pdftex.def Info: images/att_encoding2.png  used on input line 251.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding3.png, id=178, 225.84375pt x 357.335pt>
+<images/att_encoding3.png, id=182, 225.84375pt x 357.335pt>
 File: images/att_encoding3.png Graphic file (type png)
 <use images/att_encoding3.png>
 Package pdftex.def Info: images/att_encoding3.png  used on input line 252.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
  [8 <./images/att_variable.png> <./images/att_variable2.png> <./images/att_variable3.png> <./images/att_encoding1.png> <./images/att_encoding2.png> <./images/att_encoding3.png>]
-<images/att_encoding_1hd1.png, id=189, 225.84375pt x 357.335pt>
+<images/att_encoding_1hd1.png, id=193, 225.84375pt x 357.335pt>
 File: images/att_encoding_1hd1.png Graphic file (type png)
 <use images/att_encoding_1hd1.png>
 Package pdftex.def Info: images/att_encoding_1hd1.png  used on input line 261.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding_1hd2.png, id=190, 225.84375pt x 357.335pt>
+<images/att_encoding_1hd2.png, id=194, 225.84375pt x 357.335pt>
 File: images/att_encoding_1hd2.png Graphic file (type png)
 <use images/att_encoding_1hd2.png>
 Package pdftex.def Info: images/att_encoding_1hd2.png  used on input line 262.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding_1hd3.png, id=191, 225.84375pt x 357.335pt>
+<images/att_encoding_1hd3.png, id=195, 225.84375pt x 357.335pt>
 File: images/att_encoding_1hd3.png Graphic file (type png)
 <use images/att_encoding_1hd3.png>
 Package pdftex.def Info: images/att_encoding_1hd3.png  used on input line 263.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding_2hd.png, id=192, 225.84375pt x 357.335pt>
+<images/att_encoding_2hd.png, id=196, 225.84375pt x 357.335pt>
 File: images/att_encoding_2hd.png Graphic file (type png)
 <use images/att_encoding_2hd.png>
 Package pdftex.def Info: images/att_encoding_2hd.png  used on input line 269.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding_2hd2.png, id=193, 225.84375pt x 357.335pt>
+<images/att_encoding_2hd2.png, id=197, 225.84375pt x 357.335pt>
 File: images/att_encoding_2hd2.png Graphic file (type png)
 <use images/att_encoding_2hd2.png>
 Package pdftex.def Info: images/att_encoding_2hd2.png  used on input line 270.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
-<images/att_encoding_2hd3.png, id=194, 225.84375pt x 357.335pt>
+<images/att_encoding_2hd3.png, id=198, 225.84375pt x 357.335pt>
 File: images/att_encoding_2hd3.png Graphic file (type png)
 <use images/att_encoding_2hd3.png>
 Package pdftex.def Info: images/att_encoding_2hd3.png  used on input line 271.
 (pdftex.def)             Requested size: 90.33589pt x 142.93146pt.
  [9 <./images/att_encoding_1hd1.png> <./images/att_encoding_1hd2.png> <./images/att_encoding_1hd3.png> <./images/att_encoding_2hd.png> <./images/att_encoding_2hd2.png> <./images/att_encoding_2hd3.png>] [10] (./final.bbl) [11] (./final.aux)
 Package rerunfilecheck Info: File `final.out' has not changed.
-(rerunfilecheck)             Checksum: D258EBB43D9166CEE8F8E91606D6A1FC;2988.
+(rerunfilecheck)             Checksum: F76704B93F5E3D6AA418F1880271FDD6;3092.
  ) 
 Here is how much of TeX's memory you used:
- 13276 strings out of 476025
- 205638 string characters out of 5790016
+ 13278 strings out of 476025
+ 205658 string characters out of 5790016
  1910388 words of memory out of 5000000
- 33498 multiletter control sequences out of 15000+600000
+ 33499 multiletter control sequences out of 15000+600000
  518319 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,76p,1143b,1628s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on final.pdf (11 pages, 470937 bytes).
+Output written on final.pdf (11 pages, 472027 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 201 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 256 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 

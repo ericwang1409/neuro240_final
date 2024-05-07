@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex final"] 1715092945 "final.aux" "final.bbl" "final" 1715093727 0
+["bibtex final"] 1715094224 "final.aux" "final.bbl" "final" 1715094243 0
   "./sample.bib" 1715049524 1864 bd27166b3ddb62330964bde75d525f41 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/alpha.bst" 1292289607 23907 a5f93555796fb564b924339521f10a7c ""
-  "final.aux" 1715093727 3396 adcfaf34a75260b01410c01a1fcee25c "pdflatex"
+  "final.aux" 1715094243 3506 64a162edc48df4a10543c808d9b4a812 "pdflatex"
   (generated)
   "final.bbl"
   "final.blg"
   (rewritten before read)
-["pdflatex"] 1715093726 "/Users/eric3/LocalDocuments/Neuro 140/final project/neuro240_final/Report/final.tex" "final.pdf" "final" 1715093727 0
-  "/Users/eric3/LocalDocuments/Neuro 140/final project/neuro240_final/Report/final.tex" 1715093725 29282 3648206304f6bb50da90801875b6412e ""
+["pdflatex"] 1715094242 "/Users/eric3/LocalDocuments/Neuro 140/final project/neuro240_final/Report/final.tex" "final.pdf" "final" 1715094243 0
+  "/Users/eric3/LocalDocuments/Neuro 140/final project/neuro240_final/Report/final.tex" 1715094242 30121 97ce15f3827ed7f8fb770e117137b12a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -112,10 +112,10 @@
   "att_fixed_edge.png" 1715048207 26600 c08fe159327e2482e269b901069f1bbe ""
   "encoding_answer.png" 1715048207 38115 c4568aa01ceb0ec552a00af6b9c7c63e ""
   "encoding_more_heads.png" 1715048207 35462 f024abb25c3d1b86a86c6a6516bf2a4c ""
-  "final.aux" 1715093727 3396 adcfaf34a75260b01410c01a1fcee25c "pdflatex"
-  "final.bbl" 1715092945 1025 de4e77bf9543408777b12ff46205eb5e "bibtex final"
-  "final.out" 1715093727 2988 d258ebb43d9166cee8f8e91606d6a1fc "pdflatex"
-  "final.tex" 1715093725 29282 3648206304f6bb50da90801875b6412e ""
+  "final.aux" 1715094243 3506 64a162edc48df4a10543c808d9b4a812 "pdflatex"
+  "final.bbl" 1715094225 1025 de4e77bf9543408777b12ff46205eb5e "bibtex final"
+  "final.out" 1715094243 3092 f76704b93f5e3d6aa418f1880271fdd6 "pdflatex"
+  "final.tex" 1715094242 30121 97ce15f3827ed7f8fb770e117137b12a ""
   "fixed_length.png" 1715048207 30176 337eea2b5ec3777d7da141bb0d3130af ""
   "images/att_encoding1.png" 1715048207 33135 742a0df6047515d544e780bf2ce65d23 ""
   "images/att_encoding2.png" 1715048207 32669 555e515d9f5f454c64c98a9b2da055b2 ""
